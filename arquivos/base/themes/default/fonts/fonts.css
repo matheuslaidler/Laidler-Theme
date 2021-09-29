@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'hacked';
+    src: url('hacked.ttf');
+    src: url('hacked.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'helvetica_rounded_blackRg';
+    src: url('HelveticaRounded-Black.eot');
+    src: url('HelveticaRounded-Blackd41d.eot?#iefix') format('embedded-opentype'),
+         url('HelveticaRounded-Black.woff2') format('woff2'),
+         url('HelveticaRounded-Black.woff') format('woff'),
+         url('HelveticaRounded-Black.ttf') format('truetype'),
+         url('HelveticaRounded-Black.svg#helvetica_rounded_blackRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'helvetica_rounded_blackOb';
+    src: url('HelveticaRounded-BlackObl.eot');
+    src: url('HelveticaRounded-BlackObld41d.eot?#iefix') format('embedded-opentype'),
+         url('HelveticaRounded-BlackObl.woff2') format('woff2'),
+         url('HelveticaRounded-BlackObl.woff') format('woff'),
+         url('HelveticaRounded-BlackObl.ttf') format('truetype'),
+         url('HelveticaRounded-BlackObl.svg#helvetica_rounded_blackOb') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'helvetica_roundedbold';
+    src: url('HelveticaRounded-Bold.eot');
+    src: url('HelveticaRounded-Boldd41d.eot?#iefix') format('embedded-opentype'),
+         url('HelveticaRounded-Bold.woff2') format('woff2'),
+         url('HelveticaRounded-Bold.woff') format('woff'),
+         url('HelveticaRounded-Bold.ttf') format('truetype'),
+         url('HelveticaRounded-Bold.svg#helvetica_roundedbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'helvetica_rounded_condensedBd';
+    src: url('HelveticaRounded-BoldCond.eot');
+    src: url('HelveticaRounded-BoldCondd41d.eot?#iefix') format('embedded-opentype'),
+         url('HelveticaRounded-BoldCond.woff2') format('woff2'),
+         url('HelveticaRounded-BoldCond.woff') format('woff'),
+         url('HelveticaRounded-BoldCond.ttf') format('truetype'),
+         url('HelveticaRounded-BoldCond.svg#helvetica_rounded_condensedBd') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'helvetica_rounded_blackRg';
+    src: url('HelveticaRounded-Black.eot');
+    src: url('HelveticaRounded-Blackd41d.eot?#iefix') format('embedded-opentype'),
+         url('HelveticaRounded-Black.woff2') format('woff2'),
+         url('HelveticaRounded-Black.woff') format('woff'),
+         url('HelveticaRounded-Black.ttf') format('truetype'),
+         url('HelveticaRounded-Black.svg#helvetica_rounded_blackRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+	font-family: 'faktos';
+	src: url('Faktos.ttf');
+	src: url('Faktos.ttf') format('embedded-opentype');
+	local('faktos'),
+	url('Faktos.ttf') format('truetype');
+}

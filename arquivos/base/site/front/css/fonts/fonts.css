@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'hacked';
+    src: url('hacked.ttf');
+    src: url('hacked.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+     font-family: corruptedfile;
+     src: url('corrupted.ttf');
+}
+
+@font-face {
+     font-family: glitch;
+     src: url('glitch.otf');
+}
+
+@font-face {
+     font-family: badsignal;
+     src: url('signal.otf');
+}
+
+
