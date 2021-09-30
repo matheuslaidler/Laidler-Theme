@@ -3280,7 +3280,7 @@ textarea{
     z-index:1;
     top:49%;
     left:50%;
-    margin-left:-200px;
+    margin-left:-210px;
     margin-top:-215px
 }
 #logo img{
@@ -4757,7 +4757,7 @@ a.fechar{
     height:82%
 }
 #modalMenu>img{
-    width:auto;
+    width:100%;
     height:100%
 }
 #modalMenu h1{
