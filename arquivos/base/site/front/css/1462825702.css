@@ -291,34 +291,13 @@ footer p{
     right:3%;
     top:5%
 }
-#modalMenu .img-menu{
-    tex-align:center;
-    width:51%;
-    height:84%;
-    position:absolute;
-    overflow:hidden;
-    top:12%;
-    left:3%;
-    opacity: 0;
-}
-#modalMenu .img-menu img.elesis-menu{
-    margin-top:8%;
-    width:61%;
-    height:auto;
-    opacity: 0;
-}
-#modalMenu .img-menu img.elesis-box{
-    margin-top:-5%;
-    width:77%;
-    height:auto;
-    opacity: 0;
-}
+
 #modalMenu .menu-modal{
     background:url('../../../../../img/menu/bg-botoes-menu.png') no-repeat;
     background-size:100% 100%;
     width:70%;
     height:80%;
-    padding:0.3% 10% 0.2% 13%;
+    padding:0.3% 10% 0.386% 13%;
     position:absolute;
     right:3%;
     top:13%

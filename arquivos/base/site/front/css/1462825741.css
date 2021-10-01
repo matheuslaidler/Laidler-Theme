@@ -433,7 +433,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 }
 
 html,button,a,input,iframe{
-    cursor:url(../../../../../themes/default/cursor/cursor.cur),default
+    cursor:url(../../../../../arquivos/base/themes/default/cursor/cursor.cur),default
 }
 button,input{
     border:none
@@ -443,7 +443,7 @@ strong{
 }
 body{
     font-family:'Arial';
-    cursor:url(../../../../../themes/default/cursor/cursor.cur),default;
+    cursor:url(../../../../../arquivos/base/themes/default/cursor/cursor.cur),default;
     -webkit-user-select:none;
     -moz-user-select:none;
     -ms-user-select:none;
@@ -596,14 +596,7 @@ footer ul li a{
     width:76px;
     height:49px
 }
-footer ul li a.kog{
-    background:url('../../../../../img/sprites.png') no-repeat -95px -20px;
-    pointer-events:none
-}
-footer ul li a.grand-chase{
-    background:url('../../../../../img/sprites.png') no-repeat -10px -3px;
-    margin-top:-18px
-}
+
 footer p{
     color:#fff;
     font-size:9px;
@@ -675,7 +668,7 @@ footer p{
     background-size:100% 100%;
     width:70%;
     height:80%;
-    padding:0.3% 10% 0.2% 13%;
+    padding:0.3% 10% 0.386% 13%;
     position:absolute;
     right:3%;
     top:13%
