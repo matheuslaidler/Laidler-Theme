@@ -1,0 +1,9 @@
+;Falta recriar o js
+;Falta verificar como está para mobile em outros celulares.
+;Substituir a página oficial por essa no mesmo repositório.
+;Terminar os outros sites que levam pros projetos e colocar na url dos menus de cada;
+(pasta projects)
+;Colocar esses outros sites dos projetos/pontes tbm funcionais em mobile
+
+
+
