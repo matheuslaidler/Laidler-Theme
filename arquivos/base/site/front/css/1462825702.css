@@ -309,7 +309,7 @@ footer p{
 }
 #modalMenu .menu-modal ul li{
     display:inline-block;
-    float:left;
+    float:center;
     width:24%;
     margin:0.5%;
     position:relative;
