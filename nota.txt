@@ -1,0 +1,8 @@
+
+so falta agora LIMPAR o codigo javascript (css ja limpo) - na vdd recriar o js mais pra frente
+- limpar ele é perda de tempo, vai continuar sujo pra funionar direito e são mais de 4k linhas pra ficar tirando função por função no teste pra tirar aqueles q n mudam nada no codigo; 
+- fizemos um pouco no codigo home
+
+testar em outros celulares;
+
+finalizar os outros projetos, principalmente o site de posts, transferindo pro nome road2tech;
