@@ -631,7 +631,7 @@ footer p{
     position:relative;
     display:inline-block;
     width:auto;
-    height:82%
+    height:auto
     
 }
 #modalMenu>img{
@@ -656,37 +656,39 @@ footer p{
 #modalMenu .close-menu{
     background:url('../../../../../img/menu/fechar.png') no-repeat;
     background-size:100% 100%;
-    width:3.5%;
+    width:4%;
     height:5%;
     position:absolute;
     right:3%;
-    top:5%
+    top:5%;
 }
 
 #modalMenu .menu-modal{
     background:url('../../../../../img/menu/bg-botoes-menu.png') no-repeat;
     background-size:100% 100%;
     width:70%;
-    height:80%;
+    height:65%;
     padding:0.3% 10% 0.386% 13%;
     position:absolute;
     right:3%;
-    top:13%
+    top:18%;
 }
 #modalMenu .menu-modal ul.content{
     overflow:auto;
     position:relative;
     display:inline-table;
-    width:90%;
+    width:auto;
+    height:auto;
 }
 #modalMenu .menu-modal ul li{
     display:inline-block;
     float:center;
-    width:24%;
-    margin:0.5%;
+    width:auto;
+    margin:0.2%;
     position:relative;
-    opacity:0.6;
-    transition:0.5s
+    opacity:0.6476;
+    transition:0.5s;
+
 }
 #modalMenu .menu-modal ul li:hover{
     opacity:1;
@@ -709,7 +711,7 @@ footer p{
 }
 #modalMenu .menu-modal ul li img{
     width:100%;
-    height:auto
+    height:100%
 }
 #presentation{
     background:#fff;
