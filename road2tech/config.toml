@@ -1,0 +1,31 @@
+baseURL = "https://matheuslaidler.github.io/road2tech"
+languageCode = "pt-br"
+title = "Road to Technology"
+theme = "github-style"
+googleAnalytics = "UA-123456-789"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  author = "Matheus Laidler"
+  description = "Acervo pessoal de estudo sobre tecnologia e segurança da informação."
+  github = "matheuslaidler"
+  twitter = "matheuslaidler"
+  linkedin = "laidlervidal"
+  instagram = "matheuslaidler"
+  email = "matheuslaidler@protonmail.com"
+  url = "https://matheuslaidler.github.io"
+  keywords = "segurança da informação,hacking,cybersecurity,livros,pdfs,ctfs,writeups,escola hacker,escola de ti,tecnologia da informação,cursos,materiais,leitura,artigos,novidades,tutoriais,conteudo educacional,educação,education,portugues,secinfo,linux,terminal,dominando,domine ti,estudos,laidler,wayofsec,way of security,seclab,wayofsecurity,way of sec,descomplicando,road2tech,matheuslaidler,github,artigos,tópicos,aulas,gratuito,acadêmico,ufrj"
+  rss = false
+  lastmod = true
+  favicon = "/static/images/favicon.ico"
+  location = "Brazil"
+
+ # [[params.links]] #-> colocar no arquivo layout/partials/user-profile.html
+    #title = "voltar"
+    #href = "https://matheuslaidler.github.io"
+    #icon = "https://avatars.githubusercontent.com/u/76860503?v=4"
+
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
